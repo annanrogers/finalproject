@@ -2,9 +2,13 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: lavenderblush;
     color: darkslateblue;
+   
+}
+.about{
+     text-align: center;
 }
 img{
-    display: block;
+    /* display: block; */
     border: 2px solid darkslategray;
     padding: 5px;
     margin: auto;
